@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Universidad</string>
+    <string name="codigo">Código</string>
+    <string name="nombre">Nombre</string>
+    <string name="programa">Programa</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="listado">LISTADO</string>
+</resources>
